@@ -1,0 +1,12 @@
+---
+#Server IP for MySQL. Defaults to localhost
+server-name: localhost
+#Username to login
+username: root
+#Password for MySQL Database
+password: password
+#The SimpleAuth MySQL database name (Create one first)
+simpleauth-dbname: simpleauth
+#Port to connect to MySQL. Defaults to 3306
+port: 3306
+...

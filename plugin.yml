@@ -1,0 +1,5 @@
+name: SimpleTransfer
+main: Legoboy\ST\Loader
+version: "1.0.0"
+api: [1.13.0]
+author: Legoboy
